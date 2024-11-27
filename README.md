@@ -1,1 +1,5 @@
-# MySQL
+- Constraint là các quy tắc (rule) được quy định cho bảng
+- PRIMARY KEY: Khóa chính (Không NULL và là UNIQUE)
+- FOREIGN KEY: Khóa ngoại (tham chiếu sang bảng khác)
+- Mỗi bảng chỉ có duy nhất một khoá chính.
+- Khoá ngoại là khoá chính (hoặc trường được xác định với ràng buộc unnique) của một bảng khác.
